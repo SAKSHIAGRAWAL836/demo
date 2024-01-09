@@ -1,3 +1,3 @@
 # demo
-this is my first repository
-Aurthor - Sakshi Agrawal
+this is my first repository.
+Author - Sakshi Agrawal
